@@ -8,7 +8,7 @@
 {
     "filepath": "index.html",
     "browserpath": "file:///C:/Users/D1moncheck/Desktop/index.html",
-    "updatedelay": "0.15"
+    "updatedelay": 0.15
 }
 ```
 **filepath** отвечает за путь относительно корневой папки. Вы можете указать **полный путь**.
